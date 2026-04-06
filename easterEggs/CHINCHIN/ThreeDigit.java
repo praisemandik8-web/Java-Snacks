@@ -13,6 +13,9 @@ import java.util.Scanner;
             //if (num <= 99 && num >= 1000) {
             //System.out.println("not a 3 digit number");
 //}
-            else {}
+            else {
+            System.out.println("not a 3 digit number");
+}
+
 }
 }
