@@ -1,0 +1,2 @@
+When a Java program divides one integer by another (int / int), it performs integer division, which truncates the result by discarding all fractional/decimal parts, effectively rounding towards zero. A calculation like 5/2 returns 2 rather than 2.5
+To avoid this, cast at least one operand to a double.

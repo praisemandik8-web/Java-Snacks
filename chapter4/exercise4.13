@@ -1,0 +1,11 @@
+What type of repetition would be appropriate for obtaining an input from the user until the user indicates there is no more input to provide? What type would be appropriate for calculating the factorial of 5? Briefly describe how each of these tasks could be performed
+
+ while loop (specifically a while True loop with a break condition) is the most appropriate, as the number of inputs is unknown beforehandHow to perform it:
+
+    i. Initialize a loop (e.g., while True:).
+   ii. Prompt the user to enter data.
+    iii. Check if the user input matches a "quit" phrase (e.g., "done" or an empty input).
+   iv.  If the quit phrase is entered, use the break statement to exit the loop.
+    Otherwise, process the input and repeat. 
+
+

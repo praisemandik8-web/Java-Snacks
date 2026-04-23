@@ -1,0 +1,1 @@
+Control statements can be combined in two primary ways: stacking (sequential) and nesting. Stacking involves placing control structures one after another, where one finishes before the next begins. Nesting places one control structure inside another, such as a loop inside an if statement, allowing for complex logic. 
