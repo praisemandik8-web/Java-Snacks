@@ -12,7 +12,7 @@ import java.util.Scanner;
              else{
             //(pin < 1000 && pin > 9999)
 
-            System.out.println("Inalid Pin");
+            System.out.println("Invalid Pin");
 }
 
 

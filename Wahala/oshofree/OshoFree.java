@@ -1,5 +1,5 @@
 public class OshoFree{
-    public static double oshoFreee(int cartTotal, String promoCode){
+    public static double oshoFreee(double cartTotal, String promoCode){
         double discount1 = 0.1 * cartTotal;
         double discount2 = 0.2 * cartTotal;
         double discount3 = 0.35 * cartTotal;
